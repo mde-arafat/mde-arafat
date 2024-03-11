@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mde-arafat
+- 👀 I’m interested in data analysis and machine learning
+- 🌱 I’m currently learning data analysis and machine learning through Google, IBM, and Stanford professor Dr. Andrew Ng
+- 💞️ I’m looking to collaborate on a junior data analysis project
+- 📫 I'm active on Gmail. So, feel free to reach me via email: m.mdearafat@gmail.com
+- ⚡ Fun fact: I built an 11-inch rocket engine using stainless steel, showcasing my engineering skills and passion for aerospace technology!
