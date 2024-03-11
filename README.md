@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mde-arafat
+- 👋 Hi, I’m Arafat
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning data analysis and machine learning through Google, IBM, and Stanford professor Dr. Andrew Ng
 - 💞️ I’m looking to collaborate on a junior data analysis project
