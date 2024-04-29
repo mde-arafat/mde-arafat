@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arafat
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning data analysis and machine learning through **[Google](https://www.credly.com/badges/c6a8f0a0-6312-44ff-92d1-419fc29507f5/public_url), [IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst), and [Stanford professor](https://www.coursera.org/specializations/machine-learning-introduction) [Dr. Andrew Ng](https://www.linkedin.com/in/andrewyng/)**
-- 💞️ I’m looking to collaborate on a data analysis project
+- 💞️ I’m looking to collaborate on a **[data analysis project](https://www.kaggle.com/mdearafat)**
 - 📫 I'm active on Gmail. So, feel free to reach me via email: m.mdearafat@gmail.com
 - ⚡ Fun fact: I built an 11-inch rocket engine using stainless steel, showcasing my engineering skills and passion for aerospace technology!
