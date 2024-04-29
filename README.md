@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arafat
+- 👋 Hi, I’m **[Arafat](https://www.linkedin.com/in/mde-arafat/)**
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning data analysis and machine learning through **[Google](https://www.credly.com/badges/c6a8f0a0-6312-44ff-92d1-419fc29507f5/public_url), [IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst), and [Stanford professor](https://www.coursera.org/specializations/machine-learning-introduction) [Dr. Andrew Ng](https://www.linkedin.com/in/andrewyng/)**
 - 💞️ I’m looking to collaborate on a **[data analysis project](https://www.kaggle.com/mdearafat)**
